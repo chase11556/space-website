@@ -1,3 +1,20 @@
 body {
-    background-color: blanchedalmond;
+    background-image: url(./photos/840881.jpg);
+}
+.img1 {
+    width: 400px;
+    height: auto;
+    
+}
+
+
+.paradiv {
+    border: 2px solid blue;
+    background-color: #faf6ed;
+}
+
+.link1 {
+    border: 2px solid red;
+    background-color: #bf2c4e;
+    color: black;
 }
